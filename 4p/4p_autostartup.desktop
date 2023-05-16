@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0.0
+Type=Application
+Name=4p
+Name[zh_CN]=4p
+Icon=default
+Categories=Application;Office
+Exec=/home/admin/4p/4p_autostartup.sh
